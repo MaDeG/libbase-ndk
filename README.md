@@ -1,4 +1,6 @@
-# libbase
+# libbase-ndk
+
+This repository is tracking the master branch of [https://android.googlesource.com/platform/system/libbase] and has been patched to compile on Android NDK.
 
 ## Who is this library for?
 
